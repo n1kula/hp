@@ -1,14 +1,14 @@
 {
-  "main.css": "/n1kula/hp/static/css/main.140897ea.chunk.css",
-  "main.js": "/n1kula/hp/static/js/main.723f9e94.chunk.js",
-  "main.js.map": "/n1kula/hp/static/js/main.723f9e94.chunk.js.map",
-  "runtime~main.js": "/n1kula/hp/static/js/runtime~main.eac4c53b.js",
-  "runtime~main.js.map": "/n1kula/hp/static/js/runtime~main.eac4c53b.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/n1kula/hp/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/n1kula/hp/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/n1kula/hp/index.html",
-  "precache-manifest.5886cc820003aeacc8c859d96aedff10.js": "/n1kula/hp/precache-manifest.5886cc820003aeacc8c859d96aedff10.js",
-  "service-worker.js": "/n1kula/hp/service-worker.js",
-  "static/css/main.140897ea.chunk.css.map": "/n1kula/hp/static/css/main.140897ea.chunk.css.map",
-  "static/media/logo.svg": "/n1kula/hp/static/media/logo.5d5d9eef.svg"
+  "main.css": "/hp/static/css/main.140897ea.chunk.css",
+  "main.js": "/hp/static/js/main.83102524.chunk.js",
+  "main.js.map": "/hp/static/js/main.83102524.chunk.js.map",
+  "runtime~main.js": "/hp/static/js/runtime~main.bc8d703c.js",
+  "runtime~main.js.map": "/hp/static/js/runtime~main.bc8d703c.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/hp/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/hp/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/hp/index.html",
+  "precache-manifest.1b29bd5691a09fb54ca2f28cf0789748.js": "/hp/precache-manifest.1b29bd5691a09fb54ca2f28cf0789748.js",
+  "service-worker.js": "/hp/service-worker.js",
+  "static/css/main.140897ea.chunk.css.map": "/hp/static/css/main.140897ea.chunk.css.map",
+  "static/media/logo.svg": "/hp/static/media/logo.5d5d9eef.svg"
 }
