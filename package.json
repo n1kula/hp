@@ -8,7 +8,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
-  "homepage": "https://github.com/n1kula/hp",
+  "homepage": "https://n1kula.github.io/hp/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
